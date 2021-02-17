@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Issues regarding gameplay
-title: ''
-labels: ''
-assignees: ''
+title: "[BR] issue"
+labels: bug
+assignees: ninetail2, FurrehIzzy, hellot1m
 
 ---
 
@@ -14,4 +14,4 @@ A clear and concise description of the error you encountered.  Please include an
 Please give a brief description of your device (Windows, Mac or other), internet connection (if applicable), or any other environmental issues you feel may have contributed to the error you experienced.
 
 ---
-**Moderators Notes**
+**Moderator's Notes**
